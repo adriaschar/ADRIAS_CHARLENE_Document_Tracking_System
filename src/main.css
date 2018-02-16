@@ -1,0 +1,44 @@
+.login-form-wrapper {
+	height: 100vh;
+}
+
+
+.newFileLeftDiv{
+	padding-left: 100px;
+}
+
+.fileDetails{
+	margin-top: 20px;
+}
+.paraFileDetails{
+	padding: 10px 20px 10px 80px;
+	font-weight: bolder;
+}
+
+.topMenu{
+	margin-top: 10px;
+}
+
+.leftFileDetails{
+	padding-top: 20px;
+	padding-left: 120px;
+}
+
+.history-wrapper {
+	height: 100vh;
+	overflow-y: scroll;
+}
+
+
+
+
+
+/*New File php*/
+.newFileHeader{
+	margin-bottom: 50px;
+}
+
+.fileDetailsDiv{
+	padding-left: 120px;
+	margin-bottom: 40px;
+}
